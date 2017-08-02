@@ -1,0 +1,119 @@
+# Copyright (C) 2016 Sensei Lesson Timer
+# This file is distributed under the same license as the Sensei Lesson Timer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Sensei Lesson Timer 1.1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/sensei-lesson-"
+"timer\n"
+"POT-Creation-Date: 2016-05-03 20:51:52+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: sensei-lesson-timer.php:318
+msgid "Lesson Timer"
+msgstr ""
+
+#: sensei-lesson-timer.php:319
+msgid "Sensei Lesson Timer Settings."
+msgstr ""
+
+#: sensei-lesson-timer.php:344
+msgid "Add Lesson Timer to these Sensei post types"
+msgstr ""
+
+#: sensei-lesson-timer.php:345
+msgid "The Lesson Timer will be displayed on the these Sensei post types"
+msgstr ""
+
+#: sensei-lesson-timer.php:361
+msgid "Disable Lesson Timer by Role"
+msgstr ""
+
+#: sensei-lesson-timer.php:362
+msgid ""
+"The Lesson Timer can be disable by specific user roles. By default the "
+"Lesson Time is shown to all user roles."
+msgstr ""
+
+#: sensei-lesson-timer.php:371
+msgid "Auto Complete"
+msgstr ""
+
+#: sensei-lesson-timer.php:372
+msgid "Auto-Complete the Lesson when the timer reaches zero"
+msgstr ""
+
+#: sensei-lesson-timer.php:379
+msgid "Pause Timer"
+msgstr ""
+
+#: sensei-lesson-timer.php:380
+msgid ""
+"Pause the Lesson Timer when the browser is not being viewed. This can help "
+"prevent the user from switching to another browser window while the timer "
+"counts down. This is only effective for modern browsers."
+msgstr ""
+
+#: sensei-lesson-timer.php:387
+msgid "Timer Placement"
+msgstr ""
+
+#: sensei-lesson-timer.php:388
+msgid ""
+"Controls where the Lesson Timer will be displayed in relation to the "
+"'Complete Lesson' button."
+msgstr ""
+
+#: sensei-lesson-timer.php:394
+msgid "Disable Button, Timer after button"
+msgstr ""
+
+#: sensei-lesson-timer.php:395
+msgid "Hide Button, Show Timer"
+msgstr ""
+
+#: sensei-lesson-timer.php:396
+msgid "Add Timer after Button Text"
+msgstr ""
+
+#: sensei-lesson-timer.php:401
+msgid "Warning Message"
+msgstr ""
+
+#: sensei-lesson-timer.php:402
+msgid ""
+"Message shown when the user attempts to leave the page where an active time "
+"is running. Leave blank to disable the warning message. This message will "
+"show in most modern browsers except Firefox."
+msgstr ""
+
+#: sensei-lesson-timer.php:536
+msgid ""
+"Sensei Lesson Timer requires the Sensei plugin! Please install and activate "
+"Sensei (https://github.com/Automattic/sensei)."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Sensei Lesson Timer"
+msgstr ""
+
+#. #-#-#-#-#  plugin.pot (Sensei Lesson Timer 1.1.3)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  plugin.pot (Sensei Lesson Timer 1.1.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.skinnycatsoftware.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin adds timer to the Sensei lessons and enable/disable complete "
+"button."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Skinny Cat Software, LLC"
+msgstr ""

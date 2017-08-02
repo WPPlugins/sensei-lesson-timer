@@ -1,0 +1,97 @@
+# Translation of the WordPress plugin Sensei Lesson Timer 1.1.1 by Skinny Cat Software, LLC.
+# Copyright (C) 2015 Skinny Cat Software, LLC
+# This file is distributed under the same license as the Sensei Lesson Timer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Sensei Lesson Timer 1.1.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/sensei-lesson-timer\n"
+"POT-Creation-Date: 2015-05-10 17:08-0500\n"
+"PO-Revision-Date: 2015-05-10 18:09-0500\n"
+"Last-Translator: Paul Menard <paul@codehooligans.com>\n"
+"Language-Team: Skinny Cat Software, LLC\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+
+#: sensei-lesson-timer.php:133
+msgid "Lesson Timer"
+msgstr ""
+
+#: sensei-lesson-timer.php:134
+msgid "Sensei Lesson Timer Settings."
+msgstr ""
+
+#: sensei-lesson-timer.php:145
+msgid "Auto Complete"
+msgstr ""
+
+#: sensei-lesson-timer.php:146
+msgid "Auto-Complete the Lesson when the timer reaches zero"
+msgstr ""
+
+#: sensei-lesson-timer.php:153
+msgid "Timer Placement"
+msgstr ""
+
+#: sensei-lesson-timer.php:154
+msgid "Controls where the Timer will be displayed in relation to the Complete Lesson button."
+msgstr ""
+
+#: sensei-lesson-timer.php:160
+msgid "Disable Button, Timer right of button"
+msgstr ""
+
+#: sensei-lesson-timer.php:160
+msgid "default"
+msgstr ""
+
+#: sensei-lesson-timer.php:161
+msgid "Disable Button, Timer left of button"
+msgstr ""
+
+#: sensei-lesson-timer.php:162
+msgid "Hide Button, Show Timer"
+msgstr ""
+
+#: sensei-lesson-timer.php:163
+msgid "Add Timer to Right of Button Text"
+msgstr ""
+
+#: sensei-lesson-timer.php:164
+msgid "Add Timer to Left of Button Text"
+msgstr ""
+
+#: sensei-lesson-timer.php:165
+msgid "Replace Button Text with Timer"
+msgstr ""
+
+#: sensei-lesson-timer.php:170
+msgid "Warning Message"
+msgstr ""
+
+#: sensei-lesson-timer.php:171
+msgid "Message shown when the user attempts to leave the page where an active time is running. Leave blank to disable the warning message."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Sensei Lesson Timer"
+msgstr ""
+
+#. #-#-#-#-#  sensei-lesson-timer.pot (Sensei Lesson Timer 1.1.1)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  sensei-lesson-timer.pot (Sensei Lesson Timer 1.1.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "http://www.skinnycatsoftware.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin adds timer to the Sensei lessons and enable/disable complete button."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Skinny Cat Software, LLC"
+msgstr ""
+
